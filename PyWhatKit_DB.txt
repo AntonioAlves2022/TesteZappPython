@@ -1,0 +1,30 @@
+Date: 8/10/2024
+Time: 20:25
+Phone Number: +55999344706
+Message: Fala garoto!
+--------------------
+Date: 8/10/2024
+Time: 20:29
+Phone Number: +5551999344706
+Message: Fala garoto!
+--------------------
+Date: 8/10/2024
+Time: 20:32
+Phone Number: +5551999344706
+Message: Fala garoto!
+--------------------
+Date: 8/10/2024
+Time: 20:38
+Phone Number: +555195159521
+Message: Eu já sei enviar mensagem pelo whatsapp com o Python
+--------------------
+Date: 8/10/2024
+Time: 20:41
+Phone Number: +555195159521
+Message: Eu já sei enviar mensagem pelo whatsapp com o Python
+--------------------
+Date: 8/10/2024
+Time: 20:53
+Phone Number: +5551995159521
+Message: Atenção aqui é do banco Santo André, seu cartão foi cronado
+--------------------
